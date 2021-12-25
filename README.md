@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SlatchDev
+- 👀 I’m interested in programming
+- 🌱 I’m currently improving my skills in python
+- 💞️ I’m looking to collaborate on real python projects
+- 📫 email me at slatch.dev@gmail.com 
