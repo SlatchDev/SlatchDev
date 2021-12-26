@@ -18,3 +18,7 @@ I'm a 15 years old Python developer from Egypt. I started coding since I was 8 y
 - C# with Unity | 25%
 - C++ | 10%
 - Block Based Coding | 100%
+
+## 🎓🧾 Certificates
+
+
