@@ -20,5 +20,5 @@ I'm a 15 years old Python developer from Egypt. I started coding since I was 8 y
 - Block Based Coding | 100%
 
 ## 🎓🧾 Certificates
-
+### SoloLearn (Python Core) ![SoloLearn PythonCore Certificate](cert-1073-6194683-1.png)
 
